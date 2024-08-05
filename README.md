@@ -14,6 +14,7 @@ Accurate bankruptcy prediction models are crucial for governments, financial ins
 
 - `data/`: Contains the dataset and any preprocessed data files.
 - `README.md`: Project overview and instructions.
+- `Report.pdf`: Detailed analyses of the project. 
 
 ## Installation
 
