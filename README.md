@@ -1,6 +1,6 @@
 # Bankruptcy Prediction Using Financial Data
 
-This project was developed as part of an academic assignment and achieved a mark of 73%. The objective was to implement a machine learning approach to predict bankruptcy using financial data from Taiwanese companies. The project compares Logistic Regression and Balanced Bootstrap Aggregating methods to create reliable bankruptcy prediction models.
+Implementation of machine learning to predict bankruptcy using financial data from Taiwanese companies. The project compares Logistic Regression and Balanced Bootstrap Aggregating methods to create reliable bankruptcy prediction models.
 
 ## Data Source
 
